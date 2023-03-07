@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "lib": ["ES6", "DOM", "ESNext.AsyncIterable"],
+    "module": "ES6",
+    "rootDir": "src",
+    "outDir": "build",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true
+  },
+  "include": ["src"]
+}
